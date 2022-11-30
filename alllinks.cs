@@ -1,1 +1,1 @@
-https://hypertspanel.com/deve/file?sid=2
+https://raw.githubusercontent.com/JulieMendezerty/hyper/main/updates.cs
